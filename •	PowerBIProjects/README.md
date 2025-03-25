@@ -117,11 +117,10 @@ IF(
 
 ## Файли в репозиторії:
 
-- `dashboard.pbix` – основний файл Power BI з реалізованими візуалізаціями та аналітикою.  
-- `dashboard_screenshot.png` – знімок екрана з побудованим дашбордом.
+- [`dashboard.pbix`](./path/to/dashboard.pbix) – основний файл Power BI з реалізованими візуалізаціями та аналітикою.  
+- [`dashboard_screenshot.png`](./path/to/dashboard_screenshot.png) – знімок екрана з побудованим дашбордом.
 
 ---
 
 Цей проєкт допомагає вдосконалити навички роботи з Power BI, створюючи аналітичні рішення на реальних даних.  
-Інші проєкти Power BI, доступні в окремому репозиторії: **Power BI Repository**
-```
+Інші проєкти Power BI, доступні в окремому репозиторії: [**Power BI Repository**](https://github.com/ваш_репозиторій).
