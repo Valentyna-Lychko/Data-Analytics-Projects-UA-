@@ -1,7 +1,5 @@
 ### Revenue Metrics
 
-[Revenue Analysis PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/REVENUE_ANALYSIS.pdf)
-
 **Revenue Metrics - Показники доходу**
 
 
@@ -110,8 +108,10 @@
 
 ---
 
+
 ### Матеріали проєкту
 
 - [SQL код](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/RevenueMetricsUA.sql) – файл із SQL-запитом, який використовувався для обробки даних.
 - [PDF презентація](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Analysis_Revenue_Metrics.pdf) – файл із коротким описом і візуалізацією результатів.
-- [Дашборд у Tableau Public](https://public.tableau.com/your_dashboard_link) – інтерактивний дашборд із аналізом
+- [Revenue Analysis PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/REVENUE_ANALYSIS.pdf) – статичне зображення дашборда, яке демонструє ключові показники аналізу доходів.
+- [Дашборд у Tableau Public](https://public.tableau.com/app/profile/valentyna.lychko/viz/AnalysisRevenueMetrics/REVENUEANALYSIS) – інтерактивний дашборд із аналізом.
