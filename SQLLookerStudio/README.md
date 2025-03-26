@@ -98,12 +98,13 @@
 ### Матеріали проєкту
 
 1. **SQL-запити:**  
-   - [stage1_for_looker.sql](./stage1_for_looker.sql) – Код для Looker Studio.  
-   - [stage2_advanced_analysis.sql](./stage2_advanced_analysis.sql) – Об'єднаний код другого етапу.  
+   - [Prepare Looker SQL](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/prepare_looker_UA.sql) – Код для підготовки даних у Looker Studio.  
+   - [Metrics Trends SQL](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/metrics_trends_UA.sql) – Об'єднаний SQL-код для аналізу трендів.  
 
 2. **Дашборди у Looker Studio:**  
-   - ![Дашборд](./dashboard_screenshot.png)  
-   - [Посилання на інтерактивний дашборд у Looker Studio](https://lookerstudio.google.com/your_dashboard_link).
+   - [Маркетингові метрики PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Marketing_metrics_with_looker.pdf) – Візуалізація дашборда у форматі PDF.  
+   - [Посилання на інтерактивний дашборд у Looker Studio](https://lookerstudio.google.com/u/0/reporting/6abcc2ca-82f1-4f9e-aeff-41be988385dd/page/8PghD) – Інтерактивна версія дашборда в Looker Studio.
+
 
 3. **README.md:**  
    - Документація проєкту із детальним описом усіх етапів, SQL-кодів та візуалізацій.
