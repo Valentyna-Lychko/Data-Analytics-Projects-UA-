@@ -109,6 +109,6 @@
 
 ### Матеріали проєкту
 
-- [SQL код](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/RevenueMetricsUA.sql) – файл із SQL-запитом, який використовувався для обробки даних.
+- [SQL код](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/RevenueMetricsUA.sql) – файл із SQL-запитом, який використовувався для обробки даних.
 - [PDF презентація](./path_to_presentation.pdf) – файл із коротким описом і візуалізацією результатів.
 - [Дашборд у Tableau Public](https://public.tableau.com/your_dashboard_link) – інтерактивний дашборд із аналізом
