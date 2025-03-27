@@ -82,16 +82,16 @@
 - **Google Sheets:** Аналіз активності користувачів і статистичних показників.
 
 ---
+## Структура проєкту
 
-## Структура репозиторію
+- **`/tableau`**:  
+  - [Dashboard Cohort Analysis PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Dashboard_Cohort_Analysis.pdf) – Статичне PDF-зображення дашборда.  
+  - [Інтерактивний дашборд у Tableau Public](https://public.tableau.com/app/profile/valentyna.lychko/viz/CohortAnalysisandRevenueInsights/Dashboard3) – Дашборд із аналізом когорт та доходів.
 
-- `/tableau`:  
-  - Посилання або зображення Tableau дашбордів.  
-  - Короткий опис інтерактивних візуалізацій.  
+- **`/google-sheets`**:  
+  - [Документ у Google Sheets](https://docs.google.com/spreadsheets/d/1WgDT5DNFp1cc6rVZ_Ed1F2TzmMJP6WTNBzBXc9uA6us/edit?usp=sharing) – Файл із розрахунками та графіками.  
+  - Опис використовуваних формул наведено в документі.
 
-- `/google-sheets`:  
-  - Файл із розрахунками та графіками.  
-  - Опис використовуваних формул.  
 
 - `README.md`:  
   - Детальний опис метрик та їх застосування.
