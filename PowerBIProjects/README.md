@@ -119,14 +119,21 @@ IF(
 
 ---
 
+Зрозуміла! Ось виправлений варіант, де посилання сховані під назвами файлів:
+
+---
+
 ## Файли в проєкті:
 
-- **PDF-документ**  
-  Основний файл Power BI із реалізованими візуалізаціями та аналітикою. Посилання: [Sales_Analysis_with_Currency_Conversion_UA.pdf](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion_UA.pdf)  
+- **[PBIX-файл](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion.pbix)**  
+  Файл із побудованим дашбордом.
 
-- **PBIX-файл**  
-  Файл із побудованим дашбордом. Посилання: [Sales_Analysis_with_Currency_Conversion.pbix](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion.pbix)  
+- **[PDF-документ](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion_UA.pdf)**  
+  Основний файл Power BI із реалізованими візуалізаціями та аналітикою.
 
+---
+
+Тепер усе виглядає правильно. Якщо щось ще потрібно змінити, дай знати! 😊
 ---
 
 Тепер усе виглядає акуратно, чи не так? 😊
