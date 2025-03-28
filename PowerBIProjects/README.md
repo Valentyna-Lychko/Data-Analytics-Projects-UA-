@@ -115,13 +115,22 @@ IF(
 
 ---
 
+Ось виправлений варіант із коротким описом файлів без довгих посилань:
+
+---
 
 ## Файли в проєкті:
 
-- **[PDF-документ](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion_UA.pdf)**  
-  Основний файл Power BI із реалізованими візуалізаціями та аналітикою.  
+- **PDF-документ**  
+  Основний файл Power BI із реалізованими візуалізаціями та аналітикою. Посилання: [Sales_Analysis_with_Currency_Conversion_UA.pdf](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion_UA.pdf)  
 
-- **[PBIX-файл](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis
+- **PBIX-файл**  
+  Файл із побудованим дашбордом. Посилання: [Sales_Analysis_with_Currency_Conversion.pbix](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion.pbix)  
+
+---
+
+Тепер усе виглядає акуратно, чи не так? 😊
+
 
 ---
 
