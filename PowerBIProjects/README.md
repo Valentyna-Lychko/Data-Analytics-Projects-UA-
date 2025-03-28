@@ -115,14 +115,13 @@ IF(
 
 ---
 
-## Файли в проекті:
 
-- **`https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion_UA.pdf`**  
-  Основний файл Power BI, що містить реалізовані візуалізації та аналітику.  
+## Файли в проєкті:
 
-- **`https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion.pbix`**  
-  Знімок екрана з побудованим дашбордом.
+- **[PDF-документ](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion_UA.pdf)**  
+  Основний файл Power BI із реалізованими візуалізаціями та аналітикою.  
 
+- **[PBIX-файл](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis
 
 ---
 
