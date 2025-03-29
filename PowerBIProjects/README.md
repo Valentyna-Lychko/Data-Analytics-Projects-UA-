@@ -115,15 +115,17 @@ IF(
 
 ---
 
-## Файли в репозиторії:
 
-- **`dashboard.pbix`**  
-  Основний файл Power BI, що містить реалізовані візуалізації та аналітику.  
+## Файли в проєкті:
 
-- **`dashboard_screenshot.png`**  
-  Знімок екрана з побудованим дашбордом.
+- **[PBIX-файл](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion.pbix)**  
+  Файл із побудованим дашбордом.
+
+- **[PDF-документ](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion_UA.pdf)**  
+  Основний файл Power BI із реалізованими візуалізаціями та аналітикою.
 
 ---
+
 
 Цей проєкт допомагає вдосконалити навички роботи з Power BI, створюючи аналітичні рішення на основі реальних даних.  
 

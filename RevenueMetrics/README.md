@@ -2,6 +2,7 @@
 
 **Revenue Metrics - Показники доходу**
 
+
 - **Головна ідея проєкту:** Створити дашборд для аналізу грошових надходжень на проекті. За його допомогою продуктові менеджери будуть відслідковувати динаміку змін грошових надходжень та робити верхньорівневий аналіз факторів цих змін.
 - **Функціонал:** Візуалізація грошових надходжень, верхньорівневий аналіз факторів, інтерактивна зміна параметрів для аналізу.
 - **Стек технології:** PostgreSQL та Tableau.
@@ -107,8 +108,10 @@
 
 ---
 
+
 ### Матеріали проєкту
 
-- [SQL код](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/RevenueMetricsUA.sql) – файл із SQL-запитом, який використовувався для обробки даних.
-- [PDF презентація](./path_to_presentation.pdf) – файл із коротким описом і візуалізацією результатів.
-- [Дашборд у Tableau Public](https://public.tableau.com/your_dashboard_link) – інтерактивний дашборд із аналізом
+- [SQL код](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/RevenueMetricsUA.sql) – файл із SQL-запитом, який використовувався для обробки даних.
+- [PDF презентація](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Analysis_Revenue_Metrics.pdf) – файл із коротким описом і візуалізацією результатів.
+- [Revenue Analysis PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/REVENUE_ANALYSIS.pdf) – статичне зображення дашборда, яке демонструє ключові показники аналізу доходів.
+- [Дашборд у Tableau Public](https://public.tableau.com/app/profile/valentyna.lychko/viz/AnalysisRevenueMetrics/REVENUEANALYSIS) – інтерактивний дашборд із аналізом.
