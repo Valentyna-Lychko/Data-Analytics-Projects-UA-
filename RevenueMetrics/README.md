@@ -100,8 +100,7 @@
 
 **LTV (Customer LifeTime Value):** Відображає загальний доход, отриманий від кожного користувача за його "життєвий цикл" як клієнта протягом кожного місяця. Може змінюватися в залежності від змін у рівні витрат та прибутковості від кожного користувача.
 
-![](https://raw.githubusercontent.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/main/Dashboards_PNG/LT_LTV.png)
-https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboards_PNG/LT_LTV.png
+
 ![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboards_PNG/LT_LTV.png)
 
 
@@ -116,7 +115,7 @@ https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboa
 
 **Paid Users:** Кількість користувачів, які платять за використання продукту чи послуги протягом певного періоду.
 
-![](https://raw.githubusercontent.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/main/Dashboards_PNG/ARPPU_PaidUser.png)
+
 ![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboards_PNG/ARPPU_PaidUser.png)
 
 
