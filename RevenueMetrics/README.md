@@ -101,6 +101,7 @@
 **LTV (Customer LifeTime Value):** Відображає загальний доход, отриманий від кожного користувача за його "життєвий цикл" як клієнта протягом кожного місяця. Може змінюватися в залежності від змін у рівні витрат та прибутковості від кожного користувача.
 
 ![](https://raw.githubusercontent.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/main/Dashboards_PNG/LT_LTV.png)
+https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboards_PNG/LT_LTV.png
 
 
 Зростання середнього терміну використання може вказувати на покращення в утриманні клієнтів, а збільшення LTV може свідчити про успішність стратегій монетизації або збільшення середнього чека.
