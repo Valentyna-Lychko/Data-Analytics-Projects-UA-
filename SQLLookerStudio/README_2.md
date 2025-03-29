@@ -12,11 +12,12 @@
 Робота з даними рекламних платформ Facebook і Google Ads включала два SQL-запити:
 1. **SQL-запит для Looker Studio**  
    Цей запит об’єднує та агрегує дані рекламних кампаній. Завантажений у Looker Studio, де виконувалися розрахунки ключових метрик, таких як CTR, CPC, CPM і ROMI.  
-   Посилання на код: [SQL для Looker Studio](./sql_to_looker.sql)
+[SQL для Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/prepare_looker_UA.sql)
+
 
 2. **Розширений SQL-аналіз**  
-   Другий запит розраховує метрики та їх динаміку безпосередньо у SQL, включаючи відсоткові зміни між місяцями.  Запит демонструє можливість розрахунків у SQL.  
-   Посилання на код: [Розширений SQL-аналіз](./sql_extended_analysis.sql)
+   Другий запит розраховує метрики та їх динаміку безпосередньо у SQL, включаючи відсоткові зміни між місяцями.Запит демонструє можливість розрахунків у SQL.  
+   [Розширений SQL-аналіз](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/metrics_trends_UA.sql)
 
 ---
 
@@ -28,7 +29,7 @@
 - Вивчення зв’язку між активністю користувачів і їх покупками.
 - Підготовки даних для візуалізації у Looker Studio.
 
-Посилання на код: [SQL для eCommerce](./bigquery_ecommerce.sql)
+[SQL у BigQuery для eCommerce](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/BigQuery_Project.sql)
 
 ---
 
