@@ -102,6 +102,7 @@
 
 ![](https://raw.githubusercontent.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/main/Dashboards_PNG/LT_LTV.png)
 https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboards_PNG/LT_LTV.png
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboards_PNG/LT_LTV.png)
 
 
 Зростання середнього терміну використання може вказувати на покращення в утриманні клієнтів, а збільшення LTV може свідчити про успішність стратегій монетизації або збільшення середнього чека.
@@ -116,6 +117,7 @@ https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboa
 **Paid Users:** Кількість користувачів, які платять за використання продукту чи послуги протягом певного періоду.
 
 ![](https://raw.githubusercontent.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/main/Dashboards_PNG/ARPPU_PaidUser.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboards_PNG/ARPPU_PaidUser.png)
 
 
 Аналіз ARPPU та кількості платних користувачів допомагає оцінити ефективність монетизації, виявити ключові сегменти користувачів і оптимізувати доходи.
