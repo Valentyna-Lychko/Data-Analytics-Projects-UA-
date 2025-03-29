@@ -23,33 +23,38 @@
 ### Дашборди
 
 1. **Аналіз метриків доходу (Revenue Metrics Analysis)**  
-   - Включає глибокий аналіз ключових бізнес-метрик, таких як загальний дохід, відтік користувачів, середній дохід на користувача (ARPPU) та інші.  
-   - ![Скріншот дашборду](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/REVENUE_ANALYSIS.pdf)  
-   - [Переглянути PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/REVENUE_ANALYSIS.pdf)  
+   - Включає глибокий аналіз ключових бізнес-метрик, таких як загальний дохід, відтік користувачів, середній дохід на користувача та інші.  
+   ![]([https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/REVENUE_ANALYSIS.pdf](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/edit/main/TableauProjects/README.md)  
+    
    - [Переглянути в Tableau Public](https://public.tableau.com/app/profile/valentyna.lychko/viz/AnalysisRevenueMetrics/REVENUEANALYSIS)
+
 
 2. **Сума доходу і кількість користувачів (Revenue and Users Overview)**  
    - Показує загальний дохід та кількість користувачів із розбиттям за періодами. Включає інтерактивні фільтри для вибору часу та сегментів.  
-   - ![Скріншот дашборду](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Revenue_Users_Overview.pdf)  
-   - [Переглянути PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Revenue_Users_Overview.pdf)  
+    ![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/edit/main/TableauProjects/README.md)  
+   
    - [Переглянути в Tableau Public](https://public.tableau.com/app/profile/valentyna.lychko/viz/MeasureRevenue_2/Revenue_Users_Overview)
+
 
 3. **Поведінка користувачів на продукті (User Behavior Overview)**  
    - Дає змогу аналізувати взаємодію користувачів із продуктом, зокрема аналіз їхньої активності та кількості сесій.  
-   - ![Скріншот дашборду](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Events_by_users.pdf)  
-   - [Переглянути PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Events_by_users.pdf)  
+     ![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/edit/main/TableauProjects/README.md)  
+   
    - [Переглянути в Tableau Public](https://public.tableau.com/app/profile/valentyna.lychko/viz/UserFunnelAnalysis_17422301348770/Eventsbyusers)
 
+
 4. **Поведінка користувачів на продукті: варіант 2 (Enhanced User Behavior Dashboard)**  
-   - Додано інтерактивність до інформаційної панелі за допомогою *додаткових дій* і *параметра*, який дозволяє динамічно вибирати різні метрики для аналізу (наприклад, активність користувачів, їхні сесії або періоди залученості).  
-   - ![Скріншот дашборду](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Dashboard_with_Parameters.pdf)  
-   - [Переглянути PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Dashboard_with_Parameters.pdf)  
+   - Додано інтерактивність до інформаційної панелі за допомогою *додаткових дій* і *параметра*, який дозволяє динамічно вибирати різні метрики для аналізу (наприклад, активність користувачів, їхні сесії або періоди залученості).
+     
+    ![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/edit/main/TableauProjects/README.md)  
+   
    - [Переглянути в Tableau Public](https://public.tableau.com/app/profile/valentyna.lychko/viz/UserFunnelwithParameterActions/HomeWork3_5)
 
 5. **Когортний аналіз (Cohort Analysis)**  
-   - Включає аналіз утримання користувачів та їхньої активності за когортами, що допомагає виявити поведінкові тренди.  
-   - ![Скріншот дашборду](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Dashboard_Cohort_Analysis.pdf)  
-   - [Переглянути PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Dashboard_Cohort_Analysis.pdf)  
+   - Включає аналіз утримання користувачів та їхньої активності за когортами, що допомагає виявити поведінкові тренди.
+     
+    ![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/edit/main/TableauProjects/README.md)  
+    
    - [Переглянути в Tableau Public](https://public.tableau.com/app/profile/valentyna.lychko/viz/CohortAnalysisandRevenueInsights/Dashboard3)
 
 
