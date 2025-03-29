@@ -39,9 +39,14 @@ Looker Studio забезпечила інтерактивний аналіз:
 1. **Маркетингові метрики з PostgreSQL:**  
    - Витрати, покази, кліки та рентабельність.
    - Графіки динаміки ключових показників.
+  ![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/Marketing_metrics_with_looker.png)
+     
 2. **eCommerce-дані з BigQuery:**  
    - Воронки конверсій та активність користувачів.
 
+  ![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/eCommerce_BigQuery.png)
+
+  
 ---
 
 ## **Результати**
