@@ -16,7 +16,7 @@
 
 
 2. **Розширений SQL-аналіз**  
-   Другий запит розраховує метрики та їх динаміку безпосередньо у SQL, включаючи відсоткові зміни між місяцями.Запит демонструє можливість розрахунків у SQL.  
+   Другий запит розраховує метрики та їх динаміку безпосередньо у SQL, включаючи відсоткові зміни між місяцями.Запит демонструє можливість розрахунків в SQL.  
    [Розширений SQL-аналіз](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/metrics_trends_UA.sql)
 
 ---
@@ -59,7 +59,7 @@ Looker Studio забезпечила інтерактивний аналіз:
 - [SQL для Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/prepare_looker_UA.sql)
 - [Розширений SQL-аналіз](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/metrics_trends_UA.sql)
 - [SQL для eCommerce](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/BigQuery_Project.sql)
-- [Дашборд аркетингові метрики в Looker Studio](https://lookerstudio.google.com/u/0/reporting/6abcc2ca-82f1-4f9e-aeff-41be988385dd/page/8PghD)
+- [Дашборд маркетингові метрики в Looker Studio](https://lookerstudio.google.com/u/0/reporting/6abcc2ca-82f1-4f9e-aeff-41be988385dd/page/8PghD)
 - [Дашборд eCommerce-дані в Looker Studio](https://lookerstudio.google.com/u/0/reporting/ca655442-2403-47d8-bfac-784895e9d56b/page/tEnnC/edit)
 
 ---
