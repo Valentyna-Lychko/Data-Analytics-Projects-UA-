@@ -126,6 +126,6 @@ IF(
 
 Цей проєкт допомагає вдосконалити навички роботи з Power BI, створюючи аналітичні рішення на основі реальних даних.  
 
-Інші проєкти Power BI доступні в окремому репозиторії: **[Power BI](https://github.com/Valentyna-Lychko/Power-BI-UA.git)**.  
+Інші проєкти Power BI доступні в окремому репозиторії: **[Power-BI-UA](https://github.com/Valentyna-Lychko/Power-BI-UA.git)**.  
 
 ---
